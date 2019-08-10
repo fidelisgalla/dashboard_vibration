@@ -1,0 +1,7 @@
+problems :
+
+1. connect the program to database
+2. creating the AI logic
+3. deploying the sytem to the cloud
+4. connecting the database to the chatbot
+

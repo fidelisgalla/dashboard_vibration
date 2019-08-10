@@ -1,0 +1,37 @@
+Hierarchy
+UP2 DUMAI
+HSC
+HSC 301-3000
+301 PLP 1B
+1M NDE V-VEL
+   4/10/2019 09:42:51
+1M NDE H-VEL
+   4/10/2019 09:43:09
+1M NDE H-ENV
+   4/10/2019 09:43:16
+1M NDE H-ACC
+   4/10/2019 09:43:21
+2M DE V-VEL
+   4/10/2019 09:43:35
+2M DE H-VEL
+   4/10/2019 09:44:01
+2M DE H-ENV
+   4/10/2019 09:44:07
+2M DE H-ACC
+   4/10/2019 09:44:13
+2M DE A-VEL
+   4/10/2019 09:44:33
+3P DE V-VEL
+3P DE H-VEL
+3P DE H-ENV
+3P DE H-ACC
+4P NDE V-VEL
+4P NDE H-VEL
+4P NDE H-ENV
+4P NDE H-ACC
+4P NDE A-VEL
+1 warning(s) encountered during export
+
+Measurements - Time - 2
+Measurements - Overall - 9
+Measurements - FFT - 9
